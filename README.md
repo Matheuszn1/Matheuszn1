@@ -53,15 +53,6 @@ Sistema acadêmico desenvolvido em C++ para gerenciamento de produtos de e-comme
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheuszn1&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszn1&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Vamos conversar?
 
 <p align="center">
